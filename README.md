@@ -2,7 +2,7 @@
 
 <h4 align="left">I'm a junior Front-end developer from Kyrgyzstan 🇰🇬</h4>
 
-<a href="#debabin-title">
+<a href="#title">
   <img src="https://github-readme-stats.vercel.app/api?username=JalynTuibaev&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="JalynTuibaev" align="right" />
 </a>
 
@@ -180,7 +180,7 @@
 
 ## :comet: Contact
 <a href="#title">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=JalynTuibaev&show_icons=true&locale=en&layout=compact&theme=react" alt="jalyn" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=JalynTuibaev&show_icons=true&locale=en&layout=compact&theme=react%22%20alt=%22jalyn%22" alt="jalyn" />
 </a>
 
 - :comet: &nbsp;**[Github](https://github.com/JalynTuibaev)**
